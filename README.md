@@ -1,4 +1,9 @@
 ### Hi there 👋 My name is Rebecca
+🔭 I’m currently working on teaching a workshop! 
+🌱 I’m currently learning SO MUCH about GitHub!
+💬 Ask me questions I'm here to help! 
+📫 How to reach me: connect on LinkedIn! https://www.linkedin.com/in/rebecca-klasson-/
+🦞🍷 🐶 Fun fact: My dream job would be to get paid to travel the world and review restaurants while simultaneously rescuing puppies that do not have homes. 
 
 <!--
 **rklass510/rklass510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
